@@ -1,1 +1,2 @@
 # TRIVIA-APP
+Sitio web para generar trivias, haciendo uso de tecnologías como Node.js, Bootstrap, EcmaScript 6 y una API para la extracción de información. Permitiendo al usuario responder a una serie de preguntas sobre cultura general e indicando según el caso, si la respuesta es correcta o incorrecta, con una funcionalidad adicional de no permitir continuar con la siguiente pregunta hasta responder la anterior.
